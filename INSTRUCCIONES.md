@@ -74,9 +74,25 @@ Diseñar una aplicacion que permita la creacion, modificacion y eliminacion de a
 <br>
 <br>
 
-Colocar cualquier detalle sobre la presente evaluacion en el archivo README.md
+Colocar cualquier detalle sobre la presente API en el archivo README.md
+
+<br>
+<br>
+
+### **Luego de la realizacion de la API por favor responder a las siguientes preguntas:**
+
+<br>
+
+* Imagínate que queremos expandir la aplicación Lista de Compras para el uso simultáneo de muchas personas. ¿Que consideraciones debemos tomar en cuenta?
+<br>
+
+* Imaginate que aumenta drásticamente el uso de la aplicación Lista de Compras y ahora el listado de la lista de compras está demorando mucho, que alternativas consideras que podemos tomar en cuenta para solucionarlo?
+
+<br>
+<br>
 
 Para subir el codigo del test pasar el pull request como resultado del examen al correo del entrevistador.
 <br>
 <br>
+
 **Exitos!!**
