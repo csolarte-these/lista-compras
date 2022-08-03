@@ -1,2 +1,2 @@
 # lista-compras
-Lista de Compras 
+Leer archivo INSTRUCCIONES.md 
